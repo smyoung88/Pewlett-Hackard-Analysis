@@ -22,10 +22,12 @@ Four major findings from the aforementioned deliverables are as follows:
 <br>
 A total of 90,398 employee positions will need to be filled.
 <br>
+<br>
 <b>Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?</b>
 <br>
 There are a total of 240,124 employees currently working at Pewlett-Hackard. 90,398 of those employees are eligible for retirement and 1,549 are eligible for the mentorship program. That means that 1,549 wil be responsible for mentoring 149,726 employees. Each eligible mentor would have roughly 97 employees to mentor if all remaining employees at the company were to be mentored. It does not appear there are enough qualified, retirement-ready employees to mentor the next generation.
-
-<b>Two additional queries that may provide more insidght into the upcoming silver tsunami are:<b>
+<br>
+<br>
+<b>Two additional queries that may provide more insidght into the upcoming silver tsunami are:</b>
   1. Total amount of eligible employees for retirement for the next 5 years and respective eligible for the mentorship program during that time
   2. Total budget the company will have to replace retirement employees based off the salaries that will no longer be working for the company once retired.
