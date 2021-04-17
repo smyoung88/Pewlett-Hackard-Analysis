@@ -47,10 +47,19 @@ WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 	 AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no ASC, t.to_date DESC;
 
+--Mentorship Statistics
 SELECT COUNT(title) as "Employees Eligible", 
 ROUND((100* COUNT(title) / '1549'),0) as "% of Total Eligible",
 title as "Title"
 FROM mentorship_eligibility
 GROUP BY Title
 ORDER BY "Employees Eligible" DESC;
+
+-- Total Employees Still Working
+SELECT COUNT(e.emp_no)
+FROM employees AS e
+INNER JOIN dept_employees as de
+ON (e.emp_no = de.emp_no)
+WHERE (de.to_date = '9999-01-01')
+
 
