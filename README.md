@@ -8,11 +8,11 @@ The purpose of this analysis is to provide Pewlett-Hackard with retirement infor
 Four major findings from the aforementioned deliverables are as follows:
 1. As expected, employees expected to be in retirement age will most always have a higher skillset and be at a higher level of prestige in there careers i.e. being an assistant versus a Senior Engineer. 33% of all retirement eligible employees are Senior Engineers. That's a lot of knowledge leaving the company!
 2. Only two employees out of 90,398 retirement eligible employees are Managers. This means there is a lot of talent to choose from that could be promoted to fill those slots.
-  <b> Retirement Eligibility Breakdown </b></br>
+  <br><b> Retirement Eligibility Breakdown </b></br>
   <img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Retirement_Eligible_by_Title.png" title = "Eligible for Retirement Breakdown">
 3. There are 1,549 total employees that are eligible for the mentorship program.
 4. The majority of employees eligible to be in the mentorship program are either Senior Engineers (34%) or Senior Staff (36%). The breakdown of employees and their respective titles is shown below:
-  <b> Mentorship Eligibility Breakdown </b><br>
+<br><b> Mentorship Eligibility Breakdown </b><br>
 <img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/EmployeeMentorshipProgram.png" title = "Mentorship Breakdown">
 
 ## Summary
