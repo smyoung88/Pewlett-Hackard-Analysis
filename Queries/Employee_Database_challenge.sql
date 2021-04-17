@@ -37,11 +37,20 @@ e.birth_date,
 de.from_date,
 de.to_date,
 t.title
+INTO mentorship_eligibility
 FROM employees AS e
---INTO mentorship_eligibilty
 INNER JOIN dept_employees as de
 ON (e.emp_no = de.emp_no)
 INNER JOIN titles as t
 ON (e.emp_no = t.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
-ORDER BY e.emp_no ASC;
+	 AND (de.to_date = '9999-01-01')
+ORDER BY e.emp_no ASC, t.to_date DESC;
+
+SELECT COUNT(title) as "Employees Eligible", 
+ROUND((100* COUNT(title) / '1549'),0) as "% of Total Eligible",
+title as "Title"
+FROM mentorship_eligibility
+GROUP BY Title
+ORDER BY "Employees Eligible" DESC;
+
