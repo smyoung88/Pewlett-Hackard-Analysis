@@ -21,7 +21,7 @@ The purpose of this analysis is to provide Pewlett-Hackard with retirement infor
 ## Summary
 <b>How many roles will need to be filled as the "silver tsunami" begins to make an impact?</b>
 <br>
-A total of 90,398 employee positions will need to be filled.
+A total of 90,398 employee positions will need to be filled after the "initial" silver tsunami time-frame.
 <br>
 <br>
 <b>Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?</b>
