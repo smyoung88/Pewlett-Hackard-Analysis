@@ -5,7 +5,7 @@ The purpose of this analysis is to provide Pewlett-Hackard with retirement infor
 
 
 ## Results
-Four major findings from the aforementioned deliverables are as follows:
+<b>Four major findings from the aforementioned deliverables are as follows:</b>
 1. As expected, employees expected to be in retirement age will most always have a higher skillset and be at a higher level of prestige in there careers i.e. being an assistant versus a Senior Engineer. 33% of all retirement eligible employees are Senior Engineers. That's a lot of knowledge leaving the company!
 2. Only two employees out of 90,398 retirement eligible employees are Managers. This means there is a lot of talent to choose from that could be promoted to fill those slots.
 
@@ -21,7 +21,7 @@ Four major findings from the aforementioned deliverables are as follows:
 ## Summary
 <b>How many roles will need to be filled as the "silver tsunami" begins to make an impact?</b>
 <br>
-A total of 90,398 employee positions will need to be filled.
+A total of 90,398 employee positions will need to be filled after the "initial" silver tsunami time-frame.
 <br>
 <br>
 <b>Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?</b>
@@ -35,7 +35,7 @@ There are a total of 240,124 employees currently working at Pewlett-Hackard. 90,
 <b> Total Employees Retiring in Next 10 Years </b><br>
 <img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Retirement_Eligible_by_Title_10yr.png" title = "Retiring in Next 10 Years">
 
-This query shows that there will be roughly an 80% turnover on employees just due to retirement over the next 10 years. The new generation needs to be hired and trained fast!
+This query shows that there will be roughly an 80% turnover on employees just due to retirement over the next 10 years as just over 200,000 employees out of the total 240,000 currently working will potentially retire. The new generation needs to be hired and trained fast!
 
   2. Total budget the company will have to replace retirement employees based off the salaries that will no longer be working for the company once retired:
  
