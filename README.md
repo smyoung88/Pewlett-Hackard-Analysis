@@ -35,7 +35,7 @@ There are a total of 240,124 employees currently working at Pewlett-Hackard. 90,
 <b> Total Employees Retiring in Next 10 Years </b><br>
 <img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Retirement_Eligible_by_Title_10yr.png" title = "Retiring in Next 10 Years">
 
-This query shows that there will be roughly an 80% turnover on employees just due to retirement over the next 10 years. The new generation needs to be hired and trained fast!
+This query shows that there will be roughly an 80% turnover on employees just due to retirement over the next 10 years as just over 200,000 employees out of the total 240,000 currently working will potentially retire. The new generation needs to be hired and trained fast!
 
   2. Total budget the company will have to replace retirement employees based off the salaries that will no longer be working for the company once retired:
  
