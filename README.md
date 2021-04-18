@@ -30,5 +30,16 @@ There are a total of 240,124 employees currently working at Pewlett-Hackard. 90,
 <br>
 <br>
 <b>Two additional queries that may provide more insidght into the upcoming silver tsunami are:</b>
-  1. Total amount of eligible employees for retirement for the next 5 years and respective eligible for the mentorship program during that time
-  2. Total budget the company will have to replace retirement employees based off the salaries that will no longer be working for the company once retired.
+  1. Total amount of eligible employees for retirement for the next 10 years:
+
+<b> Total Employees Retiring in Next 10 Years </b><br>
+<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Retirement_Eligible_by_Title_10yr.png" title = "Retiring in Next 10 Years">
+
+This query shows that there will be roughly an 80% turnover on employees just due to retirement over the next 10 years. The new generation needs to be hired and trained fast!
+
+  2. Total budget the company will have to replace retirement employees based off the salaries that will no longer be working for the company once retired:
+
+<b> Total Salary Sum of Retirement Eligible </b><br>
+<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Retired_Salaries.png" title = "Total Salary Sum of Retirement Eligible">
+
+Roughly $4.8 billion in salaries will be available to fill positions that are retiring. The company will be more than capable of finding the needed talent to carry the company forward.
