@@ -10,13 +10,13 @@ The purpose of this analysis is to provide Pewlett-Hackard with retirement infor
 2. Only two employees out of 90,398 retirement eligible employees are Managers. This means there is a lot of talent to choose from that could be promoted to fill those slots.
 
 <b> Retirement Eligibility Breakdown </b></br>
-<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Retirement_Eligible_by_Title.png" title = "Eligible for Retirement Breakdown"><br>
+<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Resources/Retirement_Eligible_by_Title.png" title = "Eligible for Retirement Breakdown"><br>
 
 3. There are 1,549 total employees that are eligible for the mentorship program.
 4. The majority of employees eligible to be in the mentorship program are either Senior Engineers (34%) or Senior Staff (36%). The breakdown of employees and their respective titles is shown below:
 
 <b> Mentorship Eligibility Breakdown </b><br>
-<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/EmployeeMentorshipProgram.png" title = "Mentorship Breakdown">
+<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeMentorshipProgram.png" title = "Mentorship Breakdown">
 
 ## Summary
 <b>How many roles will need to be filled as the "silver tsunami" begins to make an impact?</b>
@@ -33,13 +33,13 @@ There are a total of 240,124 employees currently working at Pewlett-Hackard. 90,
   1. Total amount of eligible employees for retirement for the next 10 years:
  
 <b> Total Employees Retiring in Next 10 Years </b><br>
-<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Retirement_Eligible_by_Title_10yr.png" title = "Retiring in Next 10 Years">
+<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Resources/Retirement_Eligible_by_Title_10yr.png" title = "Retiring in Next 10 Years">
 
 This query shows that there will be roughly an 80% turnover on employees just due to retirement over the next 10 years as just over 200,000 employees out of the total 240,000 currently working will potentially retire. The new generation needs to be hired and trained fast!
 
   2. Total budget the company will have to replace retirement employees based off the salaries that will no longer be working for the company once retired:
  
 <b> Total Salary Sum of Retirement Eligible </b><br>
-<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Retired_Salaries.png" title = "Total Salary Sum of Retirement Eligible">
+<img src="https://github.com/smyoung88/Pewlett-Hackard-Analysis/blob/main/Resources/Retired_Salaries.png" title = "Total Salary Sum of Retirement Eligible">
 
 Roughly $4.8 billion in salaries will be available to fill positions that are retiring. The company will be more than capable of finding the needed talent to carry the company forward with incentives they will be able to offer.
