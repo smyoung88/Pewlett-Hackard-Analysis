@@ -116,5 +116,8 @@ WHERE rt.emp_no IN
 ORDER BY rt.emp_no ASC, rt.to_date DESC;
 
 
-SELECT SUM(salary) AS "Total Salaries Retired"
+SELECT SUM(salary) AS "Summed Salaries of Retirement-Eligible Employees"
 FROM unique_retirement_salaries;
+
+select to_char(4782884264, '$FM9,999,999,999') AS "Summed Salaries of Retirement-Eligible Employees"
+FROM test;
