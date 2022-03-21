@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-The purpose of this analysis is to provide Pewlett-Hackard with retirement information for their company so they can plan for a smooth transition when the "silver tsunami" happens. The amount of retirement-eligible employees by title and employees eligible for the mentorship program to train the future of the company were gathered for this project.
+The purpose of this analysis is to provide Pewlett-Hackard with retirement information for their company so they can plan for a smooth transition when the "silver tsunami" happens - the mass retirement of it's retirement-eligible employee group. The amount of retirement-eligible employees by title and employees eligible for the mentorship program to train the future of the company were gathered for this project.
 
 
 ## Results
